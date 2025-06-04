@@ -2,7 +2,8 @@
 
 **Xylophone** is a simple and colorful iOS app that plays musical notes when tapping on each key. It's built using SwiftUI and designed to be fun and intuitive for all ages.
 
-![App Icon](./screenshots/app-icon.png)
+### 🧙‍♀️ App Icon
+<img src="screenshots/app-icon.png" width="250">
 
 ## 📱 Features
 
@@ -16,11 +17,10 @@
 
 ### Main Screen
 
-![Main Screen](./screenshots/screen.png)
+<img src="screenshots/screen.png" width="250">
 
-### Splash Screen
-
-![Splash Screen](./screenshots/splash.png)
+### 🔵 Splash Screen
+<img src="screenshots/splash.png" width="250">
 
 ## 🚀 Installation
 
