@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		74762FD92DCBC463007E72C9 /* ChatGPT Image 7 May 2025 18_38_59.png in Resources */ = {isa = PBXBuildFile; fileRef = 74762FD82DCBC463007E72C9 /* ChatGPT Image 7 May 2025 18_38_59.png */; };
+		7456DC392DEFDB73001A77D4 /* 40cd5c5e-5354-4175-86a5-6f7e1de33921.png in Resources */ = {isa = PBXBuildFile; fileRef = 7456DC382DEFDB73001A77D4 /* 40cd5c5e-5354-4175-86a5-6f7e1de33921.png */; };
 		AD937BF622C61DBB002E2D88 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD937BF522C61DBB002E2D88 /* AppDelegate.swift */; };
 		AD937BF822C61DBB002E2D88 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD937BF722C61DBB002E2D88 /* SceneDelegate.swift */; };
 		AD937BFA22C61DBB002E2D88 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD937BF922C61DBB002E2D88 /* ViewController.swift */; };
@@ -25,7 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		74762FD82DCBC463007E72C9 /* ChatGPT Image 7 May 2025 18_38_59.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ChatGPT Image 7 May 2025 18_38_59.png"; sourceTree = "<group>"; };
+		7456DC382DEFDB73001A77D4 /* 40cd5c5e-5354-4175-86a5-6f7e1de33921.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "40cd5c5e-5354-4175-86a5-6f7e1de33921.png"; sourceTree = "<group>"; };
 		AD937BF222C61DBB002E2D88 /* Xylophone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Xylophone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD937BF522C61DBB002E2D88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AD937BF722C61DBB002E2D88 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -80,8 +80,8 @@
 				AD937BF922C61DBB002E2D88 /* ViewController.swift */,
 				AD937BFB22C61DBB002E2D88 /* Main.storyboard */,
 				AD937BFE22C61DBE002E2D88 /* Assets.xcassets */,
+				7456DC382DEFDB73001A77D4 /* 40cd5c5e-5354-4175-86a5-6f7e1de33921.png */,
 				ADE587EA22CB5121007F0F9A /* LaunchScreen.storyboard */,
-				74762FD82DCBC463007E72C9 /* ChatGPT Image 7 May 2025 18_38_59.png */,
 				AD937C0322C61DBE002E2D88 /* Info.plist */,
 				ADE587FA22CB5141007F0F9A /* Sounds */,
 			);
@@ -162,6 +162,7 @@
 			files = (
 				ADE587F722CB513D007F0F9A /* F.wav in Resources */,
 				ADE587F422CB513D007F0F9A /* G.wav in Resources */,
+				7456DC392DEFDB73001A77D4 /* 40cd5c5e-5354-4175-86a5-6f7e1de33921.png in Resources */,
 				AD937BFF22C61DBE002E2D88 /* Assets.xcassets in Resources */,
 				ADE587EB22CB5121007F0F9A /* LaunchScreen.storyboard in Resources */,
 				ADE587E922CB4D36007F0F9A /* README.md in Resources */,
@@ -169,7 +170,6 @@
 				ADE587F522CB513D007F0F9A /* C.wav in Resources */,
 				ADE587F822CB513D007F0F9A /* B.wav in Resources */,
 				ADE587F322CB513D007F0F9A /* A.wav in Resources */,
-				74762FD92DCBC463007E72C9 /* ChatGPT Image 7 May 2025 18_38_59.png in Resources */,
 				ADE587F622CB513D007F0F9A /* E.wav in Resources */,
 				AD937BFD22C61DBB002E2D88 /* Main.storyboard in Resources */,
 			);
