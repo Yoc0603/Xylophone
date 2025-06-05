@@ -29,3 +29,7 @@ To run the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/xylophone.git
+
+## Author
+
+**Yavuz** – iOS Developer
